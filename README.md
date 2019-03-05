@@ -202,7 +202,8 @@
 <p style="text-align: center;"><span style="text-decoration: underline; font-size: 20px; color: #e71734;"><strong><span style="color: #008080;"><span style="line-height: normal;">**เช็คสถานะการแจ้งโอนเงิน**</span></span></strong></span></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: #ff6600;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;สถานะการแจ้งโอนเงินของลูกค้าทุกท่าน&nbsp; ทางร้านจะตรวจสอบบัญชีอัพเดททุกวัน <br />ลูกค้าท่านใดโอนเงินค่าสินค้าแล้ว **รบกวนแจ้งโอนให้ทางร้านทราบนะคะ สำคัญมาก**** <br /><span style="text-decoration: underline;"><span style="font-size: 20px; color: #0000ff; text-decoration: underline;"><strong>ท่านใดที่ทางร้านทำการอัพเดทสถานะแล้ว สามารถเช็คได้ในช่องตารางนี้</strong></span></span></span><span style="text-decoration: underline;"><span style="font-size: 20px; color: #0000ff; text-decoration: underline;"><strong>&lt;</strong></span></span></p>
 <p>&nbsp;</p>
-<p><div class="blockBottom"> <div class="blockLeft"> <div class="blockRight"> <div class="blockCenter"></div> </div> </div> </div> </div> 
+<p><iframe width="640" height="450" style="display: block; margin-left: auto; margin-right: auto;" src="https://docs.google.com/spreadsheets/d/1UtQoWCNme2t1c2jtwFzgat7UZFLnyUHzOORFm7_UJt0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe></p></div>
+</div> </div> </div> </div> <div class="blockBottom"> <div class="blockLeft"> <div class="blockRight"> <div class="blockCenter"></div> </div> </div> </div> </div> 
 </div><div class="unitShoe"></div></div>
 <div id="gadget-247" config_id="247" class="widgetUnit u-showroom/new layout-main u-showroom"><div class="unitHat"></div><div class="unitShirt"><div class="titleHeader"><h3 class="headerText">NEW ARRIVAL</h3><div class="headerImage"></div></div><div class="productsArea thumbnailArea size-250r frame-000">
 <div class="productArea">
