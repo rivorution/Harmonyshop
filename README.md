@@ -202,8 +202,7 @@
 <p style="text-align: center;"><span style="text-decoration: underline; font-size: 20px; color: #e71734;"><strong><span style="color: #008080;"><span style="line-height: normal;">**เช็คสถานะการแจ้งโอนเงิน**</span></span></strong></span></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: #ff6600;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;สถานะการแจ้งโอนเงินของลูกค้าทุกท่าน&nbsp; ทางร้านจะตรวจสอบบัญชีอัพเดททุกวัน <br />ลูกค้าท่านใดโอนเงินค่าสินค้าแล้ว **รบกวนแจ้งโอนให้ทางร้านทราบนะคะ สำคัญมาก**** <br /><span style="text-decoration: underline;"><span style="font-size: 20px; color: #0000ff; text-decoration: underline;"><strong>ท่านใดที่ทางร้านทำการอัพเดทสถานะแล้ว สามารถเช็คได้ในช่องตารางนี้</strong></span></span></span><span style="text-decoration: underline;"><span style="font-size: 20px; color: #0000ff; text-decoration: underline;"><strong>&lt;</strong></span></span></p>
 <p>&nbsp;</p>
-<p>
-</div> </div> </div> </div> <div class="blockBottom"> <div class="blockLeft"> <div class="blockRight"> <div class="blockCenter"></div> </div> </div> </div> </div> 
+<p><div class="blockBottom"> <div class="blockLeft"> <div class="blockRight"> <div class="blockCenter"></div> </div> </div> </div> </div> 
 </div><div class="unitShoe"></div></div>
 <div id="gadget-247" config_id="247" class="widgetUnit u-showroom/new layout-main u-showroom"><div class="unitHat"></div><div class="unitShirt"><div class="titleHeader"><h3 class="headerText">NEW ARRIVAL</h3><div class="headerImage"></div></div><div class="productsArea thumbnailArea size-250r frame-000">
 <div class="productArea">
@@ -1137,8 +1136,30 @@ var __lnwconfig = {"new_cart":{"icon_color":"mint","bar_color":"darkBar"},"slide
 
 
     
-   
-                    
+    <div class="btn-chat-container">
+        <div class="btn btn-chat">
+            <div class="close-icon" onclick="goto_chat();"></div>
+            <div class="icon"></div>
+            <div class="text">พูดคุย-สอบถาม คลิก</div>
+        </div>
+        <ul class="social-button">
+                                        <li class="btn btn-email"><a href="https://www.xn--12cr9bwa7azall2bm9ao9ihk9il.com/contactus" onclick="return lead_contactus_track();">
+                        <div class="icon"></div>
+                        <div class="text">ฝากข้อความ</div>
+                    </a></li>
+                                        <li class="btn btn-mobile"><a href="tel:โทร 089-434-9679 LINE ID: preorderdd" onclick="return lead_phone_track();">
+                        <div class="icon"></div>
+                        <div class="text">โทร</div>
+                    </a></li>
+                                                    <li class="btn btn-line"><a href="https://line.me/ti/p/~@preorderpc" target="_blank" onclick="return lead_line_track();">
+                        <div class="icon"></div>
+                        <div class="text">Add Line</div>
+                    </a></li>
+                                        <li class="btn btn-facebook"><a target="_blank" href="https://www.messenger.com/t/preordereasy" onclick="return lead_facebook_track();">
+                        <div class="icon"></div>
+                        <div class="text">Facebook Messenger</div>
+                    </a></li>
+                    </ul>
     
 
     <script language="JavaScript">
@@ -1212,4 +1233,3 @@ $(document).ready(function() {
 </script><script language="JavaScript" type="text/javascript" src="https://www.xn--12cr9bwa7azall2bm9ao9ihk9il.com/system/application/modules/lnwshop/lnwbar/_js/blank_script.min.js?t=20190210172314"></script>
 <script type="text/javascript">$(document).ready(function(){});</script></body>
 </html>
-
