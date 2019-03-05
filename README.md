@@ -1139,8 +1139,8 @@ var __lnwconfig = {"new_cart":{"icon_color":"mint","bar_color":"darkBar"},"slide
     
     <div class="btn-chat-container">
         <div class="btn btn-chat">
-            <div class="close-icon" onclick="goto_chat();">
-            <div class="icon">
+            <div class="close-icon" onclick="goto_chat();"></div>
+            <div class="icon"></div>
                     
     
 
