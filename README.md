@@ -1141,24 +1141,7 @@ var __lnwconfig = {"new_cart":{"icon_color":"mint","bar_color":"darkBar"},"slide
         <div class="btn btn-chat">
             <div class="close-icon" onclick="goto_chat();"></div>
             <div class="icon"></div>
-            <div class="text">พูดคุย-สอบถาม คลิก</div>
-        </div>
-        <ul class="social-button">
-                                        <li class="btn btn-email"><a href="https://www.xn--12cr9bwa7azall2bm9ao9ihk9il.com/contactus" onclick="return lead_contactus_track();">
-                        <div class="icon"></div>
-                        <div class="text">ฝากข้อความ</div>
-                    </a></li>
-                                        <li class="btn btn-mobile"><a href="tel:โทร 089-434-9679 LINE ID: preorderdd" onclick="return lead_phone_track();">
-                        <div class="icon"></div>
-                        <div class="text">โทร</div>
-                    </a></li>
-                                                    <li class="btn btn-line"><a href="https://line.me/ti/p/~@preorderpc" target="_blank" onclick="return lead_line_track();">
-                        <div class="icon"></div>
-                        <div class="text">Add Line</div>
-                    </a></li>
-                                        <li class="btn btn-facebook"><a target="_blank" href="https://www.messenger.com/t/preordereasy" onclick="return lead_facebook_track();">
-                        <div class="icon"></div>
-                        <div class="text">Facebook Messenger</div>
+            
                     </a></li>
                     </ul>
     
