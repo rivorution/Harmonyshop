@@ -1161,7 +1161,7 @@ var __lnwconfig = {"new_cart":{"icon_color":"mint","bar_color":"darkBar"},"slide
                         <div class="text">Facebook Messenger</div>
                     </a></li>
                     </ul>
-    </div>
+    
 
     <script language="JavaScript">
                 function lead_contactus_track() {
